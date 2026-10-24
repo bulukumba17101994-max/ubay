@@ -1,0 +1,6 @@
+{
+  "name": "Juara Cilik - Belajar Huruf, Angka & Warna",
+  "description": "Aplikasi edukasi interaktif anak TK bertema sporty untuk belajar huruf A-Z, angka 1-10, dan aneka warna dasar dilengkapi suara, animasi, dan mini games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
